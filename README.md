@@ -1,4 +1,4 @@
-# This is simple NodeJS Application with prisma ORM
+# NodeJS Application with prisma ORM
 
 ### This app will provide some command 
 
